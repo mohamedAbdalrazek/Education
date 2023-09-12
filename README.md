@@ -1,12 +1,12 @@
-Tuder is a versatile YouTube video downloader that allows you to download videos from YouTube with various video and audio qualities. It's a user-friendly tool that makes downloading your favorite YouTube content a breeze.
+The Education Website is a responsive web application that was created by converting a PSD design into a functional website using HTML, CSS, JavaScript, and Bootstrap. This project aims to provide a user-friendly and visually appealing online education platform.
 
 
 ## Features
 
-- **Multiple Quality Options:** Choose from a range of video and audio quality options to suit your needs.
-- **Fast and Lightweight:** Tuder is designed to be fast and lightweight, making the download process efficient.
-- **User-Friendly Interface:** Tuder's intuitive interface makes it easy for users of all levels to download YouTube videos hassle-free. No technical expertise required!
-
+- Responsive Design: The website is fully responsive and adapts to various screen sizes and devices.
+- Interactive Elements: Incorporates JavaScript to create interactive features for a dynamic user experience.
+- Bootstrap Framework: Utilizes Bootstrap to streamline the development process and enhance the site's responsiveness.
+- Easy Navigation: Provides an intuitive navigation structure for easy access to educational content. 
 - **Cross-Platform:** Works on Windows, macOS, and Linux.
 
 ## Demo
@@ -28,7 +28,7 @@ Before you begin, ensure you have the following prerequisites installed on your 
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/mohamedAbdelrazek/Tuder.git
+   git clone https://github.com/mohamedAbdelrazek/education.git
    ```
 2. Navigate to the project folder
    ```sh
@@ -52,8 +52,7 @@ Before you begin, ensure you have the following prerequisites installed on your 
 - HTML
 - CSS (including Bootstrap for styling)
 - JavaScript
-- React
-- Youtube Api
+- Bootstrap
   
 ## Contact
 
