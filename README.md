@@ -1,29 +1,60 @@
-Welcome to the Education Website project! This is a fully responsive front-end project built using HTML, CSS, Bootstrap, and JavaScript. The website is designed to provide information about education programs and courses.
+Tuder is a versatile YouTube video downloader that allows you to download videos from YouTube with various video and audio qualities. It's a user-friendly tool that makes downloading your favorite YouTube content a breeze.
 
-## Table of Contents
-
-- [Features](#features)
-- [Demo](#demo)
-- [Technologies Used](#technologies-used)
-- [Contact](#contact)
 
 ## Features
 
-- Responsive design for optimal viewing on various devices.
-- Informative sections about different education programs.
-- Interactive elements using JavaScript to enhance user experience.
-- Utilization of Bootstrap framework for styling and layout.
+- **Multiple Quality Options:** Choose from a range of video and audio quality options to suit your needs.
+- **Fast and Lightweight:** Tuder is designed to be fast and lightweight, making the download process efficient.
+- **User-Friendly Interface:** Tuder's intuitive interface makes it easy for users of all levels to download YouTube videos hassle-free. No technical expertise required!
+
+- **Cross-Platform:** Works on Windows, macOS, and Linux.
 
 ## Demo
 
 Check out the live demo of the Education Website [here](https://mohamedabdalrazek.github.io/Education/).
+
+
+## Getting Started
+
+If you prefer to run Tuder locally on your machine, follow the steps in the
+
+### Prerequisites
+
+Before you begin, ensure you have the following prerequisites installed on your system:
+
+- [Node.js](https://nodejs.org/) - Ensure that you have Node.js installed. You can check your Node.js version by running `node -v` in your terminal.
+
+### Installation
+
+1. Clone the repo
+   ```sh
+   git clone https://github.com/mohamedAbdelrazek/Tuder.git
+   ```
+2. Navigate to the project folder
+   ```sh
+   cd tuder
+   ```
+3. Install NPM packages
+   ```sh
+   npm install
+   ```
+4. Start the Project
+   ```js
+   npm start
+   ```
+5.Enter the URL of the YouTube video you want to download and select the desired quality options.
+
+6.Tuder will download the video to your local machine.
+
 
 ## Technologies Used
 
 - HTML
 - CSS (including Bootstrap for styling)
 - JavaScript
-- 
+- React
+- Youtube Api
+  
 ## Contact
 
 If you have any questions, feedback, or would like to collaborate, feel free to get in touch:
